@@ -1,5 +1,13 @@
 # Portfolio
 
+<h1>Roan Guilherme Weigert Salgueiro</h1>
+
+https://www.linkedin.com/in/roan-guilherme-weigert-salgueiro-711183138/ 
+
+<h2>Data Analyst Specializing in Using Analytics to Improve Customer Success and Conversion </h2>
+
+<strong>Stakeholder Management | Requirement Gathering | Sales and Marketing | SQL | Python | R | Tableau | PHP | Excel | PowerPoint </strong>
+
 In today's data-driven world, it's more important than ever to be able to effectively communicate complex information to various stakeholders. Whether you're analyzing data, developing new processes, creating software, or reporting on project outcomes, the ability to present your findings in a clear and visually appealing way can make all the difference. In this portfolio, I'll be showcasing my skills in data visualization, process development, software documentation, and stakeholder reporting, providing real-world examples of how I've used these skills to deliver high-quality results in a variety of contexts. Through these examples, I hope to demonstrate not only my technical expertise, but also my ability to effectively collaborate with colleagues and stakeholders to achieve shared goals.
 
 <h2>Python</h2>
@@ -22,7 +30,8 @@ In today's data-driven world, it's more important than ever to be able to effect
 
 As a data visualization enthusiast, I am passionate about turning complex data sets into easily understandable visuals. One example of my work in this area is a dashboard I created for a meal prep company. Using tools such as Tableau and Excel, I was able to showcase their sales, customer retention rates, and feedback in a clear and concise way. The dashboard allowed the company to make data-driven decisions, ultimately leading to an increase in revenue and customer satisfaction.
 
-![meals-roan](https://user-images.githubusercontent.com/12221050/219816099-e51dc534-6fa2-4310-8e7d-bb957540a3ee.png)
+![meals-roan](https://user-images.githubusercontent.com/12221050/219826981-191c630a-d4b2-457c-879c-3b8c00495810.png)
+
 
 <h2>Process development</h2>
 
